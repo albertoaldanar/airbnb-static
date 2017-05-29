@@ -1,0 +1,41 @@
+
+.card-wrapper{
+background-color: #F4F4F4;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+.card{
+/*width: 500px;*/
+height: 300px;
+position: relative;
+border: 1px solid ;
+border-radius: 10px;
+color: white;
+background-size: cover;
+
+}
+
+.category{
+  position: absolute;
+  left: 10px;
+  top:10px;
+  width: 100px;
+}
+
+
+.description{
+  position: absolute;
+  left: 10px;
+  bottom:1px;
+}
+
+
+.owner{
+  position:absolute;
+  left:20px;
+  bottom:100px;
+}
+
+
